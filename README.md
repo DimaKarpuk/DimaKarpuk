@@ -2,17 +2,17 @@
 
  - Изучаю **автоматизированное тестирование**
  - Моя почта: **<karpukdima91@gmail.com>**
- - Мой телеграмм: **<@DIM_KArp>**
+ - Мой телеграмм: **@DIM_KArp**
 
 ### Я умею
 
 <p align="left">
 <img align="center" src="resources/java-original-wordmark.svg" height="40" width="40">
-<img align="center" src="resources/gradle-original-wordmark.svg" height="40" width="40">
-<img align="center" src="resources/junit-original-wordmark.svg" height="40" width="40">
+<img align="center" src="resources/gradle-original.svg" height="40" width="40">
+<img align="center" src="resources/junit-original.svg" height="40" width="40">
 <img align="center" src="resources/jenkins-original.svg" height="40" width="40">
 <img align="center" src="resources/postman-plain.svg" height="40" width="40">
-<img align="center" src="resources/mysql-original-wordmark.svg" height="40" width="40">
+<img align="center" src="resources/mysql-original.svg" height="40" width="40">
 </p>
 
 <!--
