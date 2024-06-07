@@ -4,7 +4,7 @@
  - Моя почта: **<karpukdima91@gmail.com>**
  - Мой телеграмм: [**@DIM_KArp**](https://t.me/DIM_KArp)
 
-### 💻 Мой стек
+### 💻 Мои инструменты и технологии:
 
 <p align="left">
 <img align="center" src="resources/java-original-wordmark.svg" height="40" width="40">
@@ -18,6 +18,9 @@
 <img align="center" src="resources/postman-plain.svg" height="40" width="40">
 <img align="center" src="resources/mysql-original.svg" height="40" width="40">
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaKarpuk&show_icons=true&bg_color=00000000)
 
 <!--
 **DimaKarpuk/DimaKarpuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
