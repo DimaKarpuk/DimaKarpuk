@@ -17,8 +17,21 @@
 <img align="center" src="resources/AllureTestOps.svg" height="40" width="40">
 <img align="center" src="resources/postman-plain.svg" height="40" width="40">
 <img align="center" src="resources/mysql-original.svg" height="40" width="40">
+<img align="center" src="resources/androidstudio-original.svg" height="40" width="40">
+<img align="center" src="resources/android-original.svg" height="40" width="40">
+<img align="center" src="resources/github-original-wordmark.svg" height="40" width="40">
 </p>
 
+
+### Мои проекты 🎓
+
+<a href="https://github.com/DimaKarpuk/TwentyOneVek.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DimaKarpuk&repo=TwentyOneVek&theme=dracula" />
+</a> <a href="https://github.com/DimaKarpuk/demoQaAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DimaKarpuk&repo=demoQaAPI&theme=dracula" />
+</a> <a href="https://github.com/DimaKarpuk/wikipediaMobileTest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DimaKarpuk&repo=wikipediaMobileTest&theme=dracula" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaKarpuk&show_icons=true&bg_color=00000000)
 
