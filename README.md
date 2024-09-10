@@ -17,6 +17,7 @@
 <img align="center" src="resources/AllureTestOps.svg" height="40" width="40">
 <img align="center" src="resources/postman-plain.svg" height="40" width="40">
 <img align="center" src="resources/mysql-original.svg" height="40" width="40">
+<img align="center" src="resources/jira-original-wordmark.svg" height="40" width="40">
 <img align="center" src="resources/androidstudio-original.svg" height="40" width="40">
 <img align="center" src="resources/android-original.svg" height="40" width="40">
 <img align="center" src="resources/github-original-wordmark.svg" height="40" width="40">
