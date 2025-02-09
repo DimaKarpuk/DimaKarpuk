@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Dima 👋 </h1>
 
- - Изучаю **Java QA Automation**
+ - Работаю **Java QA Automation**
+ - В компании **AZZATI**(https://azati.ai)
  - Моя почта: **<karpukdima91@gmail.com>**
  - Мой телеграмм: [**@DIM_KArp**](https://t.me/DIM_KArp)
 
